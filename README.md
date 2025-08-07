@@ -68,11 +68,4 @@ flutter pub get
 flutter run
 </code></pre>
 
-<h2>🎯 Roadmap</h2>
-<ul>
-  <li>Animations on splash and cards</li>
-  <li>Bottom navigation for filtering (types/regions)</li>
-  <li>Detailed Pokémon view (abilities, evolution, etc.)</li>
-  <li>Custom Pokémon-themed fonts and colors</li>
-</ul>
 
