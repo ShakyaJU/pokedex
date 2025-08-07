@@ -1,4 +1,8 @@
-<img width="548" height="193" alt="pokedex" align="center" src="https://github.com/user-attachments/assets/5fcdd856-72e8-4041-bcfb-653879960bc4" /><h1 align="center">📱 PokéPod - Flutter Pokédex App</h1>
+<p align="center">
+  <img width="548" height="193" alt="pokedex" src="https://github.com/user-attachments/assets/5fcdd856-72e8-4041-bcfb-653879960bc4" />
+</p>
+
+<h1 align="center">📱 PokéPod - Flutter Pokédex App</h1>
 
 <p align="center">
   A clean and modern Pokédex built with Flutter + Riverpod.<br/>
