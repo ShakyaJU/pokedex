@@ -53,7 +53,7 @@ pokipod/
 
 <p align="center">
   
-  <img src="./assets/app_screenshot.jpg" alt="Main Screen" width="600" height="500">
+  <img src="./assets/app_screenshot.jpg" alt="Main Screen" width="600" height="700">
 </p>
 
 
