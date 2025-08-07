@@ -53,6 +53,7 @@ pokipod/
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShakyaJU/pokipod/main/assets/app_screenshot.jpg" alt="App Screenshot" width="400" height="200">
+  <img src="./assets/app_screenshot.jpg" alt="Main Screen" width="400" height="200">
 </p>
 
 
