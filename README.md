@@ -51,8 +51,14 @@ pokipod/
 
 <h2>📸 Screenshots</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShakyaJU/pokipod/main/assets/app_screenshot.jpg" alt="App Screenshot" width="400" height="200">
+</p>
+
+
 <p>
-  <em>Add screenshots here (e.g., splash, home, stats modal).</em><br/>
+<code>main/app screenshot.jpg/</code>
+
   You can upload them to the <code>assets/images/screenshots/</code> folder.
 </p>
 
