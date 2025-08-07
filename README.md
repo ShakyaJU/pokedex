@@ -5,8 +5,9 @@
 <h1 align="center">📱 PokéPod - Flutter Pokédex App</h1>
 
 <p align="center">
-  A clean and modern Pokédex built with Flutter + Riverpod.<br/>
-  Includes favorites, detailed stats, and a splash screen.<br/>
+  A clean, modern Pokédex app built with Flutter and Riverpod package.<br/>
+  Browse all Pokémon fetched from the PokéAPI, view detailed stats, and mark your favorites with a seamless user experience.
+<br/>
 </p>
 
 <hr/>
