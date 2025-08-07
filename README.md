@@ -26,23 +26,25 @@
 <pre><code>
 pokipod/
 ├── assets/
-│   └── images/
-│       └── pokedex.png
+│   └── pokedex.png
 ├── controllers/
-│   └── add_expense_controller.dart
+│   └── home_page_controller.dart
 ├── models/
-│   └── pokemon_model.dart
+│   └── pokemon.dart
+│   └── page_data.dart
+├── pages/
+│   ├── home_page.dart
+│   ├── splash_screen.dart
 ├── providers/
 │   ├── pokemon_data_providers.dart
 │   └── favourite_pokemons_provider.dart
-├── screens/
-│   ├── home_screen.dart
-│   ├── splash_screen.dart
-│   └── add_expense_screen.dart
+├── services/
+│   ├── database_service.dart
+│   ├── http_service.dart
 ├── widgets/
+│   ├── pokemon_card.dart
+│   └── pokemon_list_tile.dart
 │   ├── pokemon_stats_card.dart
-│   ├── pokemon_list_tile.dart
-│   └── favourites_grid.dart
 ├── pokedex.dart
 ├── main.dart
 ├── pubspec.yaml
@@ -53,15 +55,9 @@ pokipod/
 
 <p align="center">
   
-  <img src="./assets/app_screenshot.jpg" alt="Main Screen" width="600" height="700">
+  <img src="./assets/app_screenshot.jpg" alt="Main Screen" width="500" height="600">
 </p>
 
-
-<p>
-<code>main/app screenshot.jpg/</code>
-
-  You can upload them to the <code>assets/images/screenshots/</code> folder.
-</p>
 
 <h2>⚙️ Getting Started</h2>
 
